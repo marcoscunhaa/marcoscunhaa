@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
     <img align="center" alt="Marcos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Marcos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Marcos-Julia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg">
+  <img align="center" alt="Marcos-Julia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">
   <img align="center" alt="Marcos-Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
   <img align="center" alt="Marcos-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     <img align="center" alt="Marcos-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
