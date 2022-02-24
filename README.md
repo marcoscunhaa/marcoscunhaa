@@ -1,4 +1,4 @@
-## Bem vindo(a) Dev, meu nome é Marcos e sou desenvolvedor back-end, com foco em aplicações de alto nível! 
+## Bem vindo(a) Dev, meu nome é Marcos e sou um Full-stack em treinamento :computer: 
 
 <div align="center">
   <a href="https://github.com/Marcos-jl">
