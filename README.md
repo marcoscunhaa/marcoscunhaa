@@ -1,6 +1,4 @@
-####  Bem vindo(a) Dev, me chamo Marcos e sou um desenvolvedor/pesquisador de aplicações dinâmicas de alto nível, especialmente com foco em otimização de aeronaves. :atom_symbol: :rocket:
-
-
+## Bem vindo(a) Dev, me chamo Marcos e sou um desenvolvedor/pesquisador de aplicações dinâmicas de alto nível, especialmente com foco em otimização de aeronaves. :atom_symbol: :rocket:
 
 <img align="center" alt="Marcos-pic" height="150" style="border-radius:50px;" src="profile.png">
 
