@@ -1,12 +1,14 @@
-## Bem vindo(a) Dev, me chamo Marcos e sou um desenvolvedor/pesquisador de aplicações dinâmicas de alto nível, especialmente com foco em otimização de aeronaves. :atom_symbol: :rocket:
+## Bem vindo(a) Dev, me chamo Marcos e sou um desenvolvedor/pesquisador de aplicações dinâmicas de alto nível, especialmente com foco em otimização de aeronaves. :atom_symbol: :rocket: :computer:
 
-<img align="center" alt="Marcos-pic" height="150" style="border-radius:50px;" src="profile.png">
+
 
 <div align="center">
   <a href="https://github.com/Marcos-jl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-jl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-jl&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" alt="Marcos-pic" height="150" style="border-radius:50px;" src="profile.png">
 </div>
+
 
 
 
