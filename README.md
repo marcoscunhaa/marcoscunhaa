@@ -1,10 +1,9 @@
 <img align="center" alt="Marcos-pic" height="150" style="border-radius:50px;" src="profile.png">
 
-<center><h2>
-    Marcos Cunha
-    </h2></center>
+<center><h3>
+    Marcos Cunha<br>(Back-end Developer)
+    </h3></center>
 
-<center><h3>(Back-end Developer)<h3/><center/>
 
 <center><p>
         Bem vindo(a) Dev, sou um desenvolvedor/pesquisador de aplicações dinâmicas de alto nível, especialmente com foco em otimização de aeronaves.
