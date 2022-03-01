@@ -1,4 +1,4 @@
-
+## <center> Bem vindo(a) Dev, me chamo Marcos e sou um desenvolvedor de aplicações dinâmicas de alto nível, especialmente com foco em otimização de aeronaves. :atom_symbol: :rocket: :computer: <center>
 
 
 
@@ -14,9 +14,7 @@
 
 
 
-## <center> Bem vindo(a) Dev, me chamo Marcos e sou um desenvolvedor de aplicações dinâmicas de alto nível, especialmente com foco em otimização de aeronaves. :atom_symbol: :rocket: :computer: <center>
-
-
+## 
 
 
 
