@@ -1,21 +1,15 @@
+####  Bem vindo(a) Dev, me chamo Marcos e sou um desenvolvedor/pesquisador de aplicações dinâmicas de alto nível, especialmente com foco em otimização de aeronaves. :atom_symbol: :rocket:
+
+
+
 <img align="center" alt="Marcos-pic" height="150" style="border-radius:50px;" src="profile.png">
-
-<center><h3>
-    Marcos Cunha<br>(Back-end Developer)
-    </h3></center>
-
-
-<center><p>
-        Bem vindo(a) Dev, sou um desenvolvedor/pesquisador de aplicações dinâmicas de alto nível, especialmente com foco em otimização de aeronaves.
-        </p></center> 
-
-
 
 <div align="center">
   <a href="https://github.com/Marcos-jl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-jl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-jl&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 
 
 
