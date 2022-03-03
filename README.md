@@ -15,11 +15,10 @@
 
 ## 
 
-
-
 <center><h2>
-    Currently studying <img align="center" alt="Marcos-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"> Django framework for web applications with <img align="center" alt="Marcos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python.
-    </h2></center>
+    Currently studying <img align="center" alt="Marcos-Django" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"> framework for web applications with <img align="center" alt="Marcos-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    </h2></center> <br>
+
 
 ### Languages:  
 
