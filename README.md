@@ -1,4 +1,4 @@
-## <center>Welcome Dev, my name is Marcos and I am a developer of high-level dynamic applications, especially focused on aircraft optimization. :atom_symbol: :rocket: <center>
+## <center>Welcome Dev, my name is Marcos and I am a developer of high-level dynamic applications, especially focused on aircraft optimization. :atom_symbol: :rocket: <center/>
 
 
 
@@ -13,7 +13,7 @@
 </div>
 
 
-## Currently studying Genie.jl for web applications with Julia :atom_symbol:
+## <center>Currently studying Genie.jl for web applications with Julia :atom_symbol: <center/>
 
 
 
