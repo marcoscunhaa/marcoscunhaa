@@ -13,23 +13,17 @@
 
 ## 
 
-## :house: About
-
-<h3>	Software Engineering Student at the Federal University of Ceará.  Back-end developer of high-level dynamics applications, especially focusing on aircraft optimization.</h3>
+## :books: Software engineering student.  :rocket: :computer: Backend developer of high-level applications, especially focused on aircraft optimization.
 
 
 
-## :books: Studies
+##
 
-<h3>
-    	Currently studying Spring framework for web applications with Java together with the Java Server Faces library (JSF)
-    </h3>
+### Studying:
 
-
-
-## :rocket: Goals
-
-<h3>	I want to become master in aerospace engineering. As well as developer of algorithms that optimize rockets and satellites. </h3> <br>
+<div style="display: inline_block">
+    <img align="center" alt="Marcos-Django" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+</div>
 
 ### Languages:  
 
@@ -38,6 +32,9 @@
   <img align="center" alt="Marcos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Marcos-Julia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">
     <img align="center" alt="Marcos-Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+    <img align="center" alt="Marcos-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   </div>
 
 
@@ -50,6 +47,7 @@
 <img align="center" alt="Marcos-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" alt="Marcos-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <div>
+
 
 ### Social networks:
 
