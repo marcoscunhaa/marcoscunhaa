@@ -16,8 +16,9 @@
 ## 
 
 <center><h2>
-    Currently studying <img align="center" alt="Marcos-Django" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"> framework for web applications with <img align="center" alt="Marcos-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    Currently studying <img align="center" alt="Marcos-Django" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"> framework for web applications with <img align="center" alt="Marcos-Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> in conjunction with Java Serve Face (JSF)
     </h2></center> <br>
+
 
 
 ### Languages:  
