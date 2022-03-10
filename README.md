@@ -1,6 +1,6 @@
 <img align="center" alt="Marcos-welcome" height="100%" width="2000" src="https://github.com/Marcos-jl/animation.svg/blob/master/readme.svg">
 
-## :computer:  Software engineering student.  :rocket: Back-end developer of high-level applications, especially focused on aircraft optimization.
+## :computer:  Software engineering student.  :rocket: Back-end developer in high-level applications, especially focused on rocket and satellite optimization.
 
 <div align="center">
   <a href="https://github.com/Marcos-jl">
