@@ -1,7 +1,3 @@
-<img align="center" alt="Livia-hello" height="100%" width="2000" src="https://github.com/Marcos-jl/header.svg/blob/main/readme.svg">
-
-
-
 
 
 <div align="center">
