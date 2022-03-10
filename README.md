@@ -11,11 +11,13 @@
 </div>
 
 
-## 
 
-## :computer: FFIT Back-End developer (Intern). :books: Software engineering student.  :rocket: High-level application developer, especially focused on aircraft optimization.
 
-##
+## :computer:  Software engineering student.  :rocket: High-level application developer, especially focused on aircraft optimization.
+
+
+
+
 
 ### Studying:
 
