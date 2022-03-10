@@ -1,4 +1,4 @@
-<img align="center" alt="Marcos-welcome" height="100%" width="2000" src="https://github.com/Marcos-jl/animation.svg">
+<img align="center" alt="Marcos-welcome" height="100%" width="2000" src="https://github.com/Marcos-jl/animation.svg/blob/master/readme.svg">
 
 <div align="center">
   <a href="https://github.com/Marcos-jl">
