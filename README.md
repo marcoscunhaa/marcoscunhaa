@@ -15,19 +15,21 @@
 
 ## :house: About
 
-<h3>Software Engineering Student at the Federal University of Ceará.  Back-end developer of high-level dynamics applications, especially focusing on aircraft optimization.</h3>
+<h3>	Software Engineering Student at the Federal University of Ceará.  Back-end developer of high-level dynamics applications, especially focusing on aircraft optimization.</h3>
 
 
 
 ## :books: Studies
 
 <h3>
-    Currently studying Spring framework for web applications with Java together with the Java Server Faces library (JSF)
-    </h3><br>
+    	Currently studying Spring framework for web applications with Java together with the Java Server Faces library (JSF)
+    </h3>
+
+
 
 ## :rocket: Goals
 
-<h3>I want to become master in aerospace engineering. As well as developer of algorithms that optimize rockets and satellites. </h3> <br><br>
+<h3>	I want to become master in aerospace engineering. As well as developer of algorithms that optimize rockets and satellites. </h3> <br><br>
 
 
 
