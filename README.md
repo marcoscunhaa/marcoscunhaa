@@ -13,21 +13,21 @@
 
 ## 
 
-## :new_moon_with_face: About
+## :house: About
 
 <h3>Software Engineering Student at the Federal University of Ceará.  Back-end developer of high-level dynamics applications, especially focusing on aircraft optimization.</h3>
 
 
 
-## :atom_symbol: Studies
+## :books: Studies
 
 <h3>
-    Currently studying <img align="center" alt="Marcos-Django" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"> framework for web applications with<img align="center" alt="Marcos-Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> in conjunction with Java Serve Face (JSF)
+    Currently studying Spring framework for web applications with Java together with the Java Server Faces library (JSF)
     </h3><br>
 
 ## :rocket: Goals
 
-<h3>I want to become master in aerospace engineering. As well as developer of algorithms that optimize rockets and satellites. </h3>
+<h3>I want to become master in aerospace engineering. As well as developer of algorithms that optimize rockets and satellites. </h3> <br><br>
 
 
 
