@@ -13,9 +13,7 @@
 
 ## 
 
-## :books: Software engineering student.  :rocket: :computer: Backend developer of high-level applications, especially focused on aircraft optimization.
-
-
+## :computer: FFIT Back-End developer (Intern). :books: Software engineering student.  :rocket: High-level application developer, especially focused on aircraft optimization.
 
 ##
 
