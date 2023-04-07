@@ -12,23 +12,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-jl&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
 
-### Studying:
-
-<div style="display: inline_block">
-    <img align="center" alt="Marcos-react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-
 </div>
+
+
 
 ### Languages:
 
 <div style="display: inline_block">
+    <img align="center" alt="Marcos-Julia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">    
     <img align="center" alt="Marcos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Marcos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Marcos-Julia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">
-    <img align="center" alt="Marcos-Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-    <img align="center" alt="Marcos-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Marcos-Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">  
+    <img align="center" alt="Marcos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="Marcos-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </div>
 
 ### Frameworks/Systems:
@@ -56,5 +53,3 @@
   ![Snake animation](https://github.com/Marcos-jl/Marcos-jl/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-
