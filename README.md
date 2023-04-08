@@ -1,9 +1,9 @@
-<img align="center" alt="Marcos-welcome" height="100%" width="2000" src="https://github.com/Marcos-jl/animation.svg/blob/master/readme.svg">
+<img align="center" alt="Marcos-welcome" height="100%" width="2000" src="https://github.com/marcos-py/animation.svg/blob/master/readme.svg">
 
 ## :computer:  Software engineering student.  :rocket: Back-end developer in high-level applications, especially focused on rocket and satellite optimization.
 
 <div align="center">
-  <a href="https://github.com/Marcos-jl">
+  <a href="https://github.com/Marcos-py">
   <img align="center" alt="Marcos-pic" height="150" style="border-radius:50px;" src="profile.png">
    <center><h3>
        Marcos Cunha<br>(Full-Stack Developer)
