@@ -7,9 +7,6 @@
 <div style="display: inline_block">    
     <img align="center" alt="Marcos-Unreal" height="40" width="40" src="CSV/unreal.svg">  
     <img align="center" alt="Marcos-C++" height="40" width="40" src="CSV/C++.svg">    
-    <img align="center" alt="Marcos-Sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Marcos-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-    <img align="center" alt="Marcos-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 </br></br>
 
