@@ -2,9 +2,9 @@
 
 <h3>Minhas Tecnologias:</h3>
 <div style="display: inline_block">
-  <img align="center" alt="Marcos-unreal" height="30" width="40" src="CSV/unreal.svg">
-  <img align="center" alt="Marcos-c++" height="30" width="40" src="CSV/C++.svg">
-  <img align="right" alt="Marcos-pic" height="140" style="border-radius:50px;"![GIF Maker] src="profile.gif">
+  <img align="center" alt="Marcos-unreal" height="40" width="40" src="CSV/unreal.svg">
+  <img align="center" alt="Marcos-c++" height="40" width="40" src="CSV/C++.svg">
+ <img align="right" alt="Marcos-pic" height="140" style="border-radius:50px;"![GIF Maker] src="profile.gif">
 </div>
 </br></br>
 
