@@ -12,32 +12,16 @@
 
 </div>
 
-### Development Environment:
+### Development With:
 
 <div style="display: inline_block">    
     <img align="center" alt="Marcos-Unreal" height="40" width="40" src="CSV/unreal.svg">  
-    <img align="center" alt="Marcos-Unity" height="40" width="40" src="CSV/unity.svg">  
-</div>
-
-### Language:
-
-<div style="display: inline_block">
-    <img align="center" alt="Marcos-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">   
-</div>
-
-### Database:
-
-<div style="display: inline_block">
-    <img align="center" alt="Marcos-Sql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">    
-    <img align="center" alt="Marcos-Oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"> 
-</div>
-
-### Tools/Systems:
-
-<div style="display: inline_block">
-     <img align="center" alt="Marcos-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">     
-    <img align="center" alt="Marcos-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> 
-    <img align="center" alt="Marcos-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
+    <img align="center" alt="Marcos-C++" height="40" width="40" src="CSV/C++.svg">    
+    <img align="center" alt="Marcos-Sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Marcos-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+    <img align="center" alt="Marcos-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
 ![Snake animation](https://github.com/Marcos-py/Marcos-py/blob/output/github-contribution-grid-snake.svg)
+
+
