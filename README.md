@@ -28,23 +28,6 @@
     <img align="center" alt="Marcos-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="Marcos-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   </div>
-
-### Database:
-
-<div style="display: inline_block">
-    <img align="center" alt="Marcos-sql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">    
-    <img align="center" alt="Marcos-Oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-    <img align="center" alt="Marcos-docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-</div>
-
-### Frameworks/Systems:
-
-<div style="display: inline_block">
-    <img align="center" alt="Marcos-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img align="center" alt="Marcos-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> 
-    <img align="center" alt="Marcos-Sprint" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">   
-    <img align="center" alt="Marcos-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </div>
 </br></br>
 
 </div>
