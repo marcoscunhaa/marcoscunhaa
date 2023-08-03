@@ -1,6 +1,6 @@
 <img title="Marcos-welcome" src="https://github.com/marcos-py/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
-## :game: I am a game developer and researcher, seeking experience, especially focused on semi-realistic technologies. My main goal is to build a game development company!!
+## 🎮 I am a game developer and researcher, seeking experience, especially focused on semi-realistic technologies. My main goal is to build a game development company!!
 
 <div align="center">
   <a href="https://github.com/Marcos-py">
