@@ -28,8 +28,8 @@
 ### Tools:
 
 <div style="display: inline_block">
-    <img align="center" alt="Marcos-Unreal" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
-    <img align="center" alt="Marcos-Unit" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+    <img align="center" alt="Marcos-Unreal" height="40" width="40" src="unreal.svg">
+    <img align="center" alt="Marcos-Unity" height="40" width="40" src="unity.svg">
 </div>
 
 ### Database:
@@ -47,13 +47,10 @@
     <img align="center" alt="Marcos-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> 
     <img align="center" alt="Marcos-Sprint" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">   
     <img align="center" alt="Marcos-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Marcos-Github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   </div>
 
 </div>
 
-
-
-
-
 ![Snake animation](https://github.com/Marcos-py/Marcos-py/blob/output/github-contribution-grid-snake.svg)
+
+
