@@ -16,7 +16,7 @@
 
 </div>
 
-### Environment:
+### Development Environment:
 
 <div style="display: inline_block">    
     <img align="center" alt="Marcos-Unreal" height="40" width="40" src="CSV/unreal.svg">  
@@ -47,7 +47,5 @@
     <img align="center" alt="Marcos-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> 
     <img align="center" alt="Marcos-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
 </div>
-
-
 
 ![Snake animation](https://github.com/Marcos-py/Marcos-py/blob/output/github-contribution-grid-snake.svg)
