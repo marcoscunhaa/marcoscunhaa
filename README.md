@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Marcos-py">
-  <img align="center" alt="Marcos-pic" height="150" style="border-radius:50px;" src="profile.png">
+  <img align="center" alt="Marcos-pic" height="150" style="border-radius:50px;" src="">
    <center><h3>
        Marcos Cunha<br>(Gamer Developer)
        </h3></center>
