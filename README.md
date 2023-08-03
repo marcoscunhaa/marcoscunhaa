@@ -1,7 +1,5 @@
 <img title="Marcos-welcome" src="https://github.com/marcos-py/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
-
-
 <div align="center">
   <a href="https://github.com/Marcos-py">
   <img align="center" alt="Marcos-pic" height="150" style="border-radius:50px;" src="profile.gif">
@@ -21,11 +19,7 @@
     <img align="center" alt="Marcos-Unity" height="40" width="40" src="CSV/unity.svg">  
 </div>
 
-### Languages Front-End:
-
-<div style="display: inline_block">    <img align="center" alt="Marcos-Hhtm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">     <img align="center" alt="Marcos-css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">    <img align="center" alt="Marcos-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">   </div>
-
-### Languages Back-End:
+### Language:
 
 <div style="display: inline_block">
     <img align="center" alt="Marcos-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">   
