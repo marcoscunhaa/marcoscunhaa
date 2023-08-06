@@ -1,4 +1,4 @@
-<img title="Marcos-welcome" src="https://github.com/Hug-Br/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
+<img title="Marcos-welcome" src="https://github.com/cunha-dd/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
 <h3>My Skills</h3>
 <div style="display: inline_block">
@@ -8,9 +8,9 @@
 </br></br>
 
 <div align="center">
-  <a href="https://github.com/Hug-Br">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hug-Br&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hug-Br&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/cunha-dd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cunha-dd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunha-dd&layout=compact&langs_count=7&theme=dracula"/>
 
 <h3 align="left">Languages:</h3>
 <div style="display: inline_block">
@@ -30,8 +30,6 @@
    <img align="left" alt="Marcos-sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
    <img align="left" alt="Marcos-sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-
-
-![Snake animation](https://github.com/Hug-Br/Hug-Br/blob/output/github-contribution-grid-snake.svg "Snake animation")
+![Snake animation](https://github.com/cunha-dd/cunha-dd/blob/output/github-contribution-grid-snake.svg "Snake animation")
 
 
