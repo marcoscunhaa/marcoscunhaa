@@ -19,17 +19,18 @@
   <img align="left" alt="Marcos-css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img align="left" alt="Marcos-js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
-<br>
+<br><br>
 <h3 align="left">Database:</h3>
    <img align="left" alt="Marcos-sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
    <img align="left" alt="Marcos-oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-<br>
+<br><br>
 <h3 align="left">Tools:</h3>
    <img align="left" alt="Marcos-sql" height="40" width="40" src="CSV/unreal.svg">
    <img align="left" alt="Marcos-sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
    <img align="left" alt="Marcos-sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
    <img align="left" alt="Marcos-sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<br><br>
 
-![Snake animation](https://github.com/cunha-dd/cunha-dd/blob/output/github-contribution-grid-snake.svg "Snake animation")
+
 
 
