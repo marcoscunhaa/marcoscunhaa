@@ -10,7 +10,8 @@
     <img align="left" alt="Marcos-sql" height="40" width="40" src="SVG/unreal.svg">
     <img align="left" alt="Marcos-c++" height="40" width="40" src="SVG/C++.svg">
     <img align="left" alt="Marcos-sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="left" alt="Marcos-sql" height="40" width="40" src="SVG/vscode.svg">
+    <img align="left" alt="Marcos-vs" height="40" width="40" src="SVG/vs.svg">
+    
 </div>
 <br><br>
 <img align="right" alt="Marcos-pic" height="140" style="border-radius:100px;"![GIF Maker] src="profile.gif">
