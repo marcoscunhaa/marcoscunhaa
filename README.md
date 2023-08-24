@@ -2,15 +2,18 @@
 
 <h3>My Skills</h3>
 <div style="display: inline_block">
- <p>Gamer Design | Developer | Solver Problem | Team Work | Testing and Debugging | </p>
+ <p>UX Design | Game Developer | Solver Problem | Team Work | Testing and Debugging | </p>
 </div>
 </br>
 <h3>My Technologies</h3>
 <div style="display: inline_block">
-    <img align="left" alt="Marcos-sql" height="40" width="40" src="SVG/unreal.svg">
+    <img align="left" alt="Marcos-vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+    <img align="left" alt="Marcos-bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="left" alt="Marcos-html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="left" alt="Marcos-css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="left" alt="Marcos-js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="left" alt="Marcos-unreal" height="40" width="40" src="SVG/unreal.svg">
     <img align="left" alt="Marcos-c++" height="40" width="40" src="SVG/C++.svg">
-    <img align="left" alt="Marcos-sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="left" alt="Marcos-vs" height="40" width="40" src="SVG/vs.svg">
 
 </div>
 <br><br>
