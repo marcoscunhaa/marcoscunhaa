@@ -2,14 +2,17 @@
 
 <h3>My Skills</h3>
 <div styleisplay: inline_block">
- <p>Game Developer | Solver Problem | Team Work | Testing and Debugging | </p>
+ <p>Back-end Developer | Solver Problem | Team Work | Testing and Debugging | </p>
 </div>
 </br>
 <h3>My Technologies</h3>
 <div style="display: inline_block">
-    <img align="left" alt="Marcos-unreal" height="40" width="40" src="SVG/unreal.svg">
-    <img align="left" alt="Marcos-vs" height="40" width="40" src="SVG/vs.svg">
-    <img align="left" alt="Marcos-c++" height="40" width="40" src="SVG/C++.svg">
+    
+    <img align="left" alt="Marcos-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="left" alt="Marcos-C++" height="40" width="40" src="SVG/c++.svg">
+    <img align="left" alt="Marcos-Unreal" height="40" width="40" src="SVG/unreal.svg">
+    <img align="left" alt="Marcos-VisualStudio" height="40" width="40" src="SVG/vs.svg">
+    
 
 </div>
 <br><br>
