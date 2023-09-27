@@ -4,7 +4,6 @@
 <div styleisplay: inline_block">
  <p>Full-Stack Developer | Solver Problem | Team Work | Testing and Debugging | </p>
 </div>
-</br>
 <h3>My Technologies</h3>
 <div style="display: inline_block">
     <img align="left" alt="Marcos-cs" height="40" width="40" src="SVG/C-sharp.svg">
