@@ -11,7 +11,8 @@
     <img align="left" alt="Marcos-dot-net" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
     <img align="left" alt="Marcos-materialize" height="40" width="40" src="SVG/materialize.svg">
     <img align="left" alt="Marcos-azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-    <img align="left" alt="Marcos-unity" height="40" width="40" src="SVG/unity.svg">    
+    <img align="left" alt="Marcos-unity" height="40" width="40" src="SVG/unity.svg">
+    <img align="left" alt="Marcos-vs" height="40" width="40" src="SVG/vs.svg">    
 </div>
 </br>
 
@@ -23,3 +24,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugzada&layout=compact&langs_count=7&theme=dracula"/>
 
 ![Snake animation](https://github.com/hugzada/marcos-cpp/blob/output/github-contribution-grid-snake.svg "Snake animation")
+
+
