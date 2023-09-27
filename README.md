@@ -13,6 +13,7 @@
     <img align="left" alt="Marcos-azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
     <img align="left" alt="Marcos-unity" height="40" width="40" src="SVG/unity.svg">    
 </div>
+</br>
 
 </div>
 <br><br>
@@ -22,5 +23,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugzada&layout=compact&langs_count=7&theme=dracula"/>
 
 ![Snake animation](https://github.com/hugzada/marcos-cpp/blob/output/github-contribution-grid-snake.svg "Snake animation")
-
-
