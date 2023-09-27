@@ -9,7 +9,6 @@
 <div style="display: inline_block">
     <img align="left" alt="Marcos-cs" height="40" width="40" src="SVG/C-sharp.svg">
     <img align="left" alt="Marcos-dot-net" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-    <img align="left" alt="Marcos-materialize" height="40" width="40" src="SVG/materialize.svg">
     <img align="left" alt="Marcos-azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
     <img align="left" alt="Marcos-unity" height="40" width="40" src="SVG/unity.svg">
     <img align="left" alt="Marcos-vs" height="40" width="40" src="SVG/vs.svg">    
