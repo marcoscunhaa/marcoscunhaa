@@ -1,4 +1,4 @@
-<img title="Marcos-welcome" src="https://github.com/marcos-csp/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
+<img title="Marcos-welcome" src="https://github.com/marcs-cs/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
 <h3>My Skills</h3>
 <div styleisplay: inline_block">
@@ -17,9 +17,9 @@
 <br><br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-csp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-csp&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcs-cs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcs-cs&layout=compact&langs_count=7&theme=dracula"/>
 
-![Snake animation](https://github.com/marcos-csp/marcos-csp/blob/output/github-contribution-grid-snake.svg "Snake animation")
+![Snake animation](https://github.com/marcs-cp/marcs-cs/blob/output/github-contribution-grid-snake.svg "Snake animation")
 
 
