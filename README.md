@@ -20,6 +20,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcs-cs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcs-cs&layout=compact&langs_count=7&theme=dracula"/>
 
-![Snake animation](https://github.com/marcs-cp/marcs-cs/blob/output/github-contribution-grid-snake.svg "Snake animation")
+![Snake animation](https://github.com/marcs-cs/marcs-cs/blob/output/github-contribution-grid-snake.svg "Snake animation")
 
 
