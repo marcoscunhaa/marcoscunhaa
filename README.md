@@ -18,9 +18,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcs-cs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcs-cs&layout=compact&langs_count=7&theme=dracula"/>
 
-
 <div style="text-align: left;">
-    <h3>Social Networks</h3>
+    <h3 style="text-align: left;">Social Networks</h3>
     <a href="https://instagram.com/cunha.cs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://github.com/marcs-cs" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     <a href="www.linkedin.com/in/marcs-cs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
