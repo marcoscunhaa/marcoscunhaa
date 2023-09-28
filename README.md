@@ -2,7 +2,7 @@
 
 <h3>My Skills</h3>
 <div styleisplay: inline_block">
- <p>Back-end Developer | Solver Problem | Team Work | Testing and Debugging | </p>
+ <p>Full-Stack Developer | Solver Problem | Team Work | Testing and Debugging | </p>
 </div>
 <h3>My Technologies</h3>
 <div style="display: inline_block">
