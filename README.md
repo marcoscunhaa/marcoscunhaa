@@ -6,9 +6,10 @@
 <h3>My Technologies</h3>
 <div style="display: inline_block">
     <img align="left" alt="Marcos-c++" height="40" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=138">
-    <img align="left" alt="Marcos-lua" height="40" width="40" src="svg/lua.svg">
+    <img align="left" alt="Marcos-lua" height="45" width="45" src="svg/lua.svg">
     <img align="left" alt="Marcos-unreal" height="40" width="40" src="svg/unreal.svg">
 </div>
+
 
 
 
