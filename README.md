@@ -3,8 +3,6 @@
 <h3>My Skills</h3>
 <div styleisplay: inline_block">
  <p> WorkFlow | Gameplay | Leadership | Versatility | Team Work | Code Optimization | </p>
-<h3>My Studies</h3>
- <p>Data Structures | Programming logic | Algorithms | Client/Server Architecture |</p>
 <h3>My Technologies</h3>
 <div style="display: inline_block">
     <img align="left" alt="Marcos-c++" height="40" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=138">
