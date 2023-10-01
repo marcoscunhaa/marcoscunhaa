@@ -2,7 +2,7 @@
 
 <h3>My Skills</h3>
 <div styleisplay: inline_block">
- <p>Game Developer | WorkFlow | Gameplay | Leadership | Versatility | Team Work | Code Optimization | </p>
+ <p> WorkFlow | Gameplay | Leadership | Versatility | Team Work | Code Optimization | </p>
 <h3>My Studies</h3>
  <p>Data Structures | Programming logic | Algorithms | Client/Server Architecture |</p>
 <h3>My Technologies</h3>
