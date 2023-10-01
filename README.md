@@ -2,17 +2,17 @@
 
 <h3>My Skills</h3>
 <div styleisplay: inline_block">
- <p>Game Developer | Gameplay | Optimization | Solver Problem | Team Work | Workflow | </p>
+ <p>Game Developer | WorkFlow | Gameplay | Leadership | Versatility | Team Work | Code Optimization | </p>
+<h3>My Studies</h3>
+ <p>Data Structures | Programming logic | Algorithms | Client/Server Architecture |</p>
 <h3>My Technologies</h3>
 <div style="display: inline_block">
     <img align="left" alt="Marcos-c++" height="40" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=138">
     <img align="left" alt="Marcos-lua" height="45" width="45" src="svg/lua.svg">
     <img align="left" alt="Marcos-unreal" height="40" width="40" src="svg/unreal.svg">
+    <img align="left" alt="Marcos-visualStudio" height="40" width="40" src="svg/visualStudio.svg">
+
 </div>
-
-
-
-
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcs-lua&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,6 +27,6 @@
     <a href="https://www.twitch.tv/hugzada_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
-
   ![Snake animation](https://github.com/marcs-lua/marcs-lua/blob/output/github-contribution-grid-snake.svg "Snake animation")
+
 
