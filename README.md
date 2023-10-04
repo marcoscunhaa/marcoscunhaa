@@ -1,4 +1,4 @@
-<img title="Marcos-welcome" src="https://github.com/marcs-lua/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
+<img title="Marcos-welcome" src="https://github.com/marcos-cpp/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
 <h3>My Skills</h3>
 <div styleisplay: inline_block">
@@ -13,18 +13,18 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcs-lua&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcs-lua&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-cpp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-cpp&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div>
     <h3 style="text-align: left;">My Social Networks</h3>
-    <a href="https://instagram.com/marcs.lua" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/marcos.cpp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "https://twitter.com/marcs_lua"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/marcs-lua/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/hugzada_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/marcs-lua/marcs-lua/blob/output/github-contribution-grid-snake.svg "Snake animation")
+  ![Snake animation](https://github.com/marcos-cpp/marcos-cpp/blob/output/github-contribution-grid-snake.svg "Snake animation")
 
 
