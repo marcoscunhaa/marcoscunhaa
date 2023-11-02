@@ -2,13 +2,16 @@
 
 <h3>My Skills</h3>
 <div styleisplay: inline_block">
- <p> WorkFlow | Gameplay | Leadership | Versatility | Team Work | Code Optimization | </p>
+ <p> WorkFlow | Leadership | Versatility | Team Work | </p>
 <h3>My Technologies</h3>
 <div style="display: inline_block">
     <img align="left" alt="Marcos-c++" height="40" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=138">
     <img align="left" alt="Marcos-lua" height="45" width="45" src="svg/lua.svg">
     <img align="left" alt="Marcos-unreal" height="40" width="40" src="svg/unreal.svg">
     <img align="left" alt="Marcos-visualStudio" height="40" width="40" src="svg/visualStudio.svg">
+    <img align="left" alt="Marcos-mysql" height="40" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
+
+​                                                                                                 
 
 </div>
 
@@ -26,5 +29,4 @@
 </div>
 
   ![Snake animation](https://github.com/marcos-cpp/marcos-cpp/blob/output/github-contribution-grid-snake.svg "Snake animation")
-
 
