@@ -1,12 +1,15 @@
-<img title="Marcos-welcome" src="https://github.com/marcs-cpp/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
+<img title="Marcos-welcome" src="https://github.com/MeuDuo/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
 <h3>My Skills</h3>
 <div styleisplay: inline_block">
  <p> WorkFlow | Leadership | Versatility | Team Work | </p>
 <h3>My Technologies</h3>
 <div style="display: inline_block">
-    <img align="left" alt="Marcos-c++" height="40" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=138">
+    <img align="left" alt="Marcos-c++" height="40" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
     <img align="left" alt="Marcos-lua" height="45" width="45" src="svg/lua.svg">
+    <img align="left" alt="Marcos-lua" height="45" width="45" src="svg/unity.svg">
+    <img align="left" alt="Marcos-mysql" height="40" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
+    
 
 ​                                                                                         
 
@@ -25,4 +28,6 @@
     <a href="https://www.twitch.tv/hugzada_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/marcs-cpp/marcs-cpp/blob/output/github-contribution-grid-snake.svg "Snake animation")
+  ![Snake animation](https://github.com/MeuDuo/MeuDuo/blob/output/github-contribution-grid-snake.svg "Snake animation")
+
+
