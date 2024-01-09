@@ -6,13 +6,13 @@
 <h3>My Technologies</h3>
 <div style="display: inline_block">
     <img align="left" alt="Marcos-c++" height="40" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
-    <img align="left" alt="Marcos-lua" height="45" width="45" src="svg/lua.svg">​                                                                                         
+    <img align="left" alt="Marcos-lua" height="45" width="45" src="svg/lua.svg">​
 
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcs-cpp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcs-cpp&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcs-cs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcs-cs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div>
