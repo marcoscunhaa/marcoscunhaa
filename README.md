@@ -1,4 +1,4 @@
-<img title="Marcos-welcome" src="https://github.com/MeuDuo/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
+<img title="Marcos-welcome" src="https://github.com/marcs-cs/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
 <h3>My Skills</h3>
 <div styleisplay: inline_block">
@@ -6,12 +6,7 @@
 <h3>My Technologies</h3>
 <div style="display: inline_block">
     <img align="left" alt="Marcos-c++" height="40" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
-    <img align="left" alt="Marcos-lua" height="45" width="45" src="svg/lua.svg">
-    <img align="left" alt="Marcos-lua" height="45" width="45" src="svg/unity.svg">
-    <img align="left" alt="Marcos-mysql" height="40" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
-    
-
-​                                                                                         
+    <img align="left" alt="Marcos-lua" height="45" width="45" src="svg/lua.svg">​                                                                                         
 
 </div>
 
@@ -22,12 +17,11 @@
 
 <div>
     <h3 style="text-align: left;">My Social Networks</h3>
-    <a href="https://instagram.com/marcos.cpp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "https://twitter.com/marcs_cpp"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/marcs-cpp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.twitch.tv/hugzada_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/marcs.cpp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/marcs-cs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.twitch.tv/hug_br" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/MeuDuo/MeuDuo/blob/output/github-contribution-grid-snake.svg "Snake animation")
+  ![Snake animation](https://github.com/marcs-cs/marcs-cs/blob/output/github-contribution-grid-snake.svg "Snake animation")
 
 
