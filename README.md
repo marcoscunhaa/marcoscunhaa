@@ -3,10 +3,18 @@
 <h3>My Skills</h3>
 <div styleisplay: inline_block">
  <p> WorkFlow | Leadership | Versatility | Team Work | </p>
-<h3>My Technologies</h3>
+<h3>Pleno</h3>
 <div style="display: inline_block">
-    <img align="left" alt="Marcos-c++" height="40" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
-    <img align="left" alt="Marcos-lua" height="45" width="45" src="svg/lua.svg">​
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>​
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<h3>Junior</h3>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 
 </div>
 
@@ -17,9 +25,8 @@
 
 <div>
     <h3 style="text-align: left;">My Social Networks</h3>
-    <a href="https://instagram.com/marcs.cpp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="marcos.cunha1025@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/marcs-cs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.twitch.tv/hug_br" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
   ![Snake animation](https://github.com/marcs-cs/marcs-cs/blob/output/github-contribution-grid-snake.svg "Snake animation")
