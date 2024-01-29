@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <br/>
+<br/><br/>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcs-cs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
