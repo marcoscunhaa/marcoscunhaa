@@ -22,7 +22,7 @@
 
 <div>
     <h3 style="text-align: left;">Contact:</h3>
-    <a href="https://www.linkedin.com/in/marcs-cs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/marcs-cunh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
   ![Snake animation](https://github.com/CodingDreamss/CodingDreamss/blob/output/github-contribution-grid-snake.svg "Snake animation")
