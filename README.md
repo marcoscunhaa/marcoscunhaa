@@ -12,6 +12,8 @@
     <img align="center" alt="Marcos-bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="Marcos-oracle" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
     <img align="center" alt="Marcos-docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+</div>
+</br></br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcs-tt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
