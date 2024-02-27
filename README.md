@@ -4,13 +4,12 @@
 <div styleisplay: inline_block">
  <p> WorkFlow | Leadership | Versatility | Team Work | </p>
 <h3>My Technologies</h3>
-<div style="display: inline_block">    
+<div style="display: inline_block">   
      <img align="center" alt="Marcos-angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">   
     <img align="center" alt="Marcos-springboot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-    <img align="center" alt="Marcos-rxjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg">
+      <img align="center" alt="Marcos-rxjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg">
     <img align="center" alt="Marcos-sass" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
     <img align="center" alt="Marcos-bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Marcos-oracle" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
     <img align="center" alt="Marcos-docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </div>
 </br></br>
