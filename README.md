@@ -9,7 +9,7 @@
     <img align="center" alt="Marcos-springboot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
       <img align="center" alt="Marcos-rxjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg">
     <img align="center" alt="Marcos-jwt" height="50" width="50" src="https://i.ibb.co/8dgvhs3/jwt-3.png">
-    <img align="center" alt="Marcos-bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Marcos-tailwind" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
     <img align="center" alt="Marcos-docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </div>
 </br></br>
@@ -25,3 +25,5 @@
 </div>
 
   ![Snake animation](https://github.com/marcs-tt/marcs-tt/blob/output/github-contribution-grid-snake.svg "Snake animation")
+
+
