@@ -25,5 +25,3 @@
 </div>
 
   ![Snake animation](https://github.com/marcs-tt/marcs-tt/blob/output/github-contribution-grid-snake.svg "Snake animation")
-
-
