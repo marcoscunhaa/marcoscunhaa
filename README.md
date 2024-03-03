@@ -5,7 +5,7 @@
  <p> WorkFlow | Leadership | Versatility | Team Work | </p>
 <h3>My Technologies</h3>
 <div style="display: inline_block">   
-     <img align="center" alt="Marcos-angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">   
+     <img align="center" alt="Marcos-angular" height="60" width="60" src="https://i.ibb.co/6H6v990/angular-gradient.png">
     <img align="center" alt="Marcos-springboot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
       <img align="center" alt="Marcos-rxjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg">
     <img align="center" alt="Marcos-jwt" height="50" width="50" src="https://i.ibb.co/8dgvhs3/jwt-3.png">
