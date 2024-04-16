@@ -7,7 +7,6 @@
 <div style="display: inline_block">
     <img align="center" alt="Marcos-angular" height="50" width="50" src="https://i.ibb.co/6H6v990/angular-gradient.png">
     <img align="center" alt="Marcos-react" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
-    <img align="center" alt="Marcos-node.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" alt="Marcos-springboot" height="60" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
     <img align="center" alt="Marcos-bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"> 
     <img align="center" alt="Marcos-mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> 
