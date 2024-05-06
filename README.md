@@ -2,17 +2,16 @@
 
 <h3>My Skills</h3>
 <div styleisplay: inline_block">
- <p> WorkFlow | Leadership | Versatility | Team Work | </p>
+ <p> Critical thinking | Effective communication | Leadership | Versatility | Teamwork | Problem solving </p>
 <h3>My Technologies</h3>
 <div style="display: inline_block">
-     <img align="center" alt="Marcos-java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="Marcos-springboot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
-    <img align="center" alt="Marcos-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="Marcos-hibernate" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg"> 
-    <img align="center" alt="Marcos-tomcat" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg">
-    <img align="center" alt="Marcos-maven" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">         
-    <img align="center" alt="Marcos-docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
-    <img align="center" alt="Marcos-aws" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+     <img align="center" alt="Marcos-python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+     <img align="center" alt="Marcos-pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+     <img align="center" alt="Marcos-numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
+     <img align="center" alt="Marcos-matplotlib" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
+     <img align="center" alt="Marcos-scikit-learn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
+     <img align="center" alt="Marcos-apache-spark" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg">
+     <img align="center" alt="Marcos-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 
 </div>
 </br></br>
