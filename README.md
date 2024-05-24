@@ -13,8 +13,8 @@
 <img align="center" alt="Marcos-docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
 
 <h3>My studies</h3>
-    <img align="center" alt="Marcos-lua" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
     <img align="center" alt="Marcos-C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="Marcos-lua" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
 
 </div>
 </br></br>
