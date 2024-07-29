@@ -1,7 +1,7 @@
 <img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
 <div styleisplay: inline_block">
-🧠 Software Engineer | Database Management | DevOps | Cloud Computing</br>
+🧠 Software Engineer | Backend Specialist</br>
 💻 Passionate about scalable distributed systems and game development</br>
 🎮 Gamer at heart: World of Warcraft & Diablo 4
 
