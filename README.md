@@ -1,20 +1,23 @@
 <img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
 <div styleisplay: inline_block">
-💻 Software Engineer | DevOps | Cloud Computing</br>
-🎯 Passionate about scalable distributed systems and game development</br>
-🎮 Gamer at heart: World of Warcraft, Diablo 4
+🧠 Software Engineer | Database Management | DevOps | Cloud Computing</br>
+💻 Passionate about scalable distributed systems and game development</br>
+🎮 Gamer at heart: World of Warcraft & Diablo 4
 
-<h3>My Technologies:</h3>
+<h3>Soft Skills:</h3>
+<div style="display: inline_block">
+<p>Teamwork | Communication | Creativity | Innovation | Adaptability </p>
+
+<h3>My Languages:</h3>
 <div style="display: inline_block">
     <img align="center" alt="Marcos-C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">    
-    <img align="center" alt="Marcos-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="Marcos-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
     <img align="center" alt="Marcos-Lua" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
+    <img align="center" alt="Marcos-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Marcos-Oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
     <img align="center" alt="Marcos-docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
     <img align="center" alt="Marcos-kubernetes" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg">
     <img align="center" alt="Marcos-aws" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-    
 
 </div>
 </br></br>
