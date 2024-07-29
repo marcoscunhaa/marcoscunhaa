@@ -1,15 +1,15 @@
 <img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
 <div styleisplay: inline_block">
-🧠 Software Engineer | Backend Specialist</br>
+🧠 Software Engineer specialized in Backend</br>
 💻 Passionate about scalable distributed systems and game development</br>
-🎮 Gamer at heart: World of Warcraft & Diablo 4
+🎮 Gamer at heart: World of Warcraft, Diablo 4
 
 <h3>My Skills:</h3>
 <div style="display: inline_block">
 <p>Teamwork | Communication | Creativity | Innovation | Adaptability </p>
 
-<h3>My Languages:</h3>
+<h3>My Technologies:</h3>
 <div style="display: inline_block">
     <img align="center" alt="Marcos-C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">    
     <img align="center" alt="Marcos-Lua" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
