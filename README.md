@@ -5,7 +5,7 @@
 💻 Passionate about scalable distributed systems and game development</br>
 🎮 Gamer at heart: World of Warcraft & Diablo 4
 
-<h3>Soft Skills:</h3>
+<h3>My Skills:</h3>
 <div style="display: inline_block">
 <p>Teamwork | Communication | Creativity | Innovation | Adaptability </p>
 
