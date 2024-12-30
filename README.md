@@ -1,7 +1,7 @@
 <img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
 <div styleisplay: inline_block">
-🧠 Software Engineer specialized in Backend</br>
+🧠 Software Engineer specialized in Game Designer</br>
 💻 Passionate about scalable distributed systems and game development</br>
 🎮 Game at heart: The Legends Of Zelda - Tears Of The Kingdom
 
