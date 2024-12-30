@@ -12,7 +12,7 @@
 <h3>My Technologies:</h3>
 <div style="display: inline_block">
     <img align="center" alt="Marcos-C#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Marcos-Unity" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg">
+    <img align="center" alt="Marcos-Unity" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
 </div>
 </br></br>
 
