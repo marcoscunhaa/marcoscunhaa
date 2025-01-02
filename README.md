@@ -11,7 +11,7 @@
 
 <h3>My Technologies:</h3>
 <div style="display: inline_block">
-    <img align="center" alt="Marcos-Angular" height="50" width="50" src="https://ibb.co/7vqkXfn">
+    <img align="center" alt="Marcos-Angular" height="50" width="50" src="https://i.ibb.co/7vqkXfn/1-Klh1l7wko-G6-PDPb9-A5o-CHQ.webp">
     <img align="center" alt="Marcos-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
     <img align="center" alt="Marcos-RXJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg">
     <img align="center" alt="Marcos-SpringBoot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
