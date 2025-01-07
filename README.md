@@ -9,7 +9,7 @@
 <div style="display: inline_block">
 <p>Clear Communication | Teamwork | Problem Solving | Adaptability | Continuous Learning </p>
 
-<h3>My Technologies:</h3>
+<h3>Technologies:</h3>
 <div style="display: inline_block">
     <img align="center" alt="Marcos-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
     <img align="center" alt="Marcos-Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg">
