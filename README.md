@@ -1,23 +1,25 @@
 <img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
 <div styleisplay: inline_block">
-🧠 Software Engineer specialized in Web Development</br>
-💻 Passionate about scalable distributed systems and web development</br>
-🎮 I am very interested in the field of game design
+🧠 Software engineer specialized in data sciences</br>
+💻 Passionate about large-scale data analysis and developing machine learning models</br>
+🛰️ Especially interested in scientific technical literature focused on aerospace engineering
 
-<h3>My Skills:</h3>
+<h3>Soft Skills:</h3>
 <div style="display: inline_block">
-<p>Teamwork | Communication | Creativity | Innovation | Adaptability </p>
+<p>Clear Communication | Teamwork | Problem Solving | Adaptability | Continuous Learning </p>
 
 <h3>My Technologies:</h3>
 <div style="display: inline_block">
-    <img align="center" alt="Marcos-Angular" height="50" width="50" src="https://i.ibb.co/7vqkXfn/1-Klh1l7wko-G6-PDPb9-A5o-CHQ.webp">
-    <img align="center" alt="Marcos-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-    <img align="center" alt="Marcos-SpringBoot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-    <img align="center" alt="Marcos-Oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
+    <img align="center" alt="Marcos-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+    <img align="center" alt="Marcos-Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
+    <img align="center" alt="Marcos-Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+    <img align="center" alt="Marcos-Scikit-Learn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
+    <img align="center" alt="Marcos-Matplotlib" height="50" width="50" src="https://i.ibb.co/R3fMcKX/seaborn-1.png">
     <img align="center" alt="Marcos-MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
     <img align="center" alt="Marcos-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-    <img align="center" alt="Marcos-Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Marcos-Spark" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg">
+    <img align="center" alt="Marcos-julia" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg">
 </div>
 </br></br>
 
