@@ -1,7 +1,7 @@
 <img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
 <div styleisplay: inline_block">
-🧠 Software engineer specialized in data sciences</br>
+🧠 Developer of Computational Simulations & Algorithms</br>
 💻 Passionate about large-scale data analysis and developing machine learning models</br>
 🛰️ Especially interested in scientific technical literature focused on aerospace engineering
 
@@ -19,7 +19,6 @@
     <img align="center" alt="Marcos-Spark" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg">
     <img align="center" alt="Marcos-MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Marcos-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
-    <img align="center" alt="Marcos-julia" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg">
 </div>
 </br></br>
 
