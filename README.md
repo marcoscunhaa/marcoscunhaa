@@ -1,8 +1,8 @@
 <img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
 <div styleisplay: inline_block">
-🧠 Full-Stack focused on web development</br>
-💻 Passionate about scalable systems and web development</br>
+🧠 Back-end focused on web development</br>
+💻 Passionate about solid architecture and scalable systems</br>
 🏛️ Especially interested in technical-scientific literature focused on DevOps
 
 <h3>Soft Skills:</h3>
@@ -11,12 +11,11 @@
 
 <h3>Technologies:</h3>
 <div style="display: inline_block">
-    <img align="center" alt="Marcos-Angular17" height="50" width="50" src="https://i.ibb.co/JPcsDRf/1-Klh1l7wko-G6-PDPb9-A5o-CHQ.webp">
-    <img align="center" alt="Marcos-Tailwind" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
     <img align="center" alt="Marcos-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
     <img align="center" alt="Marcos-SpringBoot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
     <img align="center" alt="Marcos-JUnit" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg">
-    <img align="center" alt="Marcos-MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="Marcos-Oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
+    <img align="center" alt="Marcos-Hibernate" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg">
     <img align="center" alt="Marcos-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
     <img align="center" alt="Marcos-AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 
