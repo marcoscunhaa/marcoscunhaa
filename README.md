@@ -17,7 +17,6 @@
     <img align="center" alt="Marcos-Oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
     <img align="center" alt="Marcos-Hibernate" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg">
     <img align="center" alt="Marcos-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
-    <img align="center" alt="Marcos-AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 
 </div>
 </br></br>
