@@ -1,7 +1,7 @@
 <img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
 <div styleisplay: inline_block">
-🧠 Back-end focused on web development</br>
+🧠 Backend focused on web development</br>
 💻 Passionate about solid architecture and scalable systems</br>
 🏛️ Especially interested in technical-scientific literature focused on DevOps
 
@@ -30,5 +30,3 @@
     <h3 style="text-align: left;">Contact:</h3>
     <a href="https://www.linkedin.com/in/marcoscunhaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-
