@@ -27,25 +27,24 @@
 </div>
 </br></br>
 
-
 <h3>Status:</h3>
-<div style="display: inline_block"><img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marcoscunhaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div style="display: inline_block">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscunhaa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="center">
+
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoscunhaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscunhaa&layout=compact&theme=tokyonight"/>
+
+<!-- Streak Stats -->
+<img height="180em" src="https://streak-stats.demolab.com?user=marcoscunhaa&theme=tokyonight"/>
+
+</div>
+
+
 
 </p>
-
-
 
 
