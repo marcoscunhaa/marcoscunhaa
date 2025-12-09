@@ -32,18 +32,27 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoscunhaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats-mu-ruby.vercel.app/api?username=marcoscunhaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 
-<!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscunhaa&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-mu-ruby.vercel.app/api/top-langs/?username=marcoscunhaa&layout=compact&theme=tokyonight"/>
 
-<!-- Streak Stats -->
-<img height="180em" src="https://streak-stats.demolab.com?user=marcoscunhaa&theme=tokyonight"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=marcoscunhaa&theme=tokyonight" />
 
 </div>
 
+<!-- GitHub Stats -->
 
+
+
+<!-- Most Used Languages -->
+
+
+
+<!-- Streak Stats -->
+
+
+
+</div>
 
 </p>
 
