@@ -36,21 +36,11 @@
 
 <img height="180em" src="https://github-readme-stats-mu-ruby.vercel.app/api/top-langs/?username=marcoscunhaa&layout=compact&theme=tokyonight"/>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=marcoscunhaa&theme=tokyonight" />
-
-</div>
-
 <!-- GitHub Stats -->
-
-
 
 <!-- Most Used Languages -->
 
-
-
 <!-- Streak Stats -->
-
-
 
 </div>
 
