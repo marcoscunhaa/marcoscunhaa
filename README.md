@@ -1,15 +1,11 @@
 <img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
 <div styleisplay: inline_block">
-👻 Software Engineer & Founder at Dyoxy Enterprise (I.S.)</br>
-🧠 Developer of digital solutions for the corporate world.</br>
-🌐 Specialist in microservices-based web platforms and cloud architecture.
+👻 Engenheiro de Software & fundador da Dyoxy Enterprise (I.S.)</br>
+🧠 Desenvolvedor de soluções digitais para o mundo corporativo.</br>
+🌐 Especialista em microserviços com arquitetura REST e soluções em nuvem, focado em aplicações web escaláveis.
 
-<h3>Soft Skills:</h3>
-<div style="display: inline_block">
-<p>Problem Solving | Clean Communication | Teamwork | Continuous Learning | Adaptability | Creativity and Innovation</p>
-
-<h3>Technologies:</h3>
+<h3>Tecnologias:</h3>
 <div style="display: inline_block">
     <img align="center" alt="Marcos-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
     <img align="center" alt="Marcos-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
@@ -20,15 +16,11 @@
     <img align="center" alt="Marcos-TailwindCSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
     <img align="center" alt="Marcos-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
     <img align="center" alt="Marcos-Kubernetes" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
-    
 
 </div>
-</br></br>
 
 <h3>Status:</h3>
 <div style="display: inline_block">
-
-<div align="center">
 
 <img height="180em" src="https://github-readme-stats-mu-ruby.vercel.app/api?username=marcoscunhaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 
