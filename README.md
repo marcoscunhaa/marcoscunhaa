@@ -8,7 +8,7 @@
 <h3>Tecnologias:</h3>
 <div style="display: inline_block">
     <img align="center" alt="Marcos-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-    <img align="center" alt="Marcos-Julia" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg">
+    <img align="center" alt="Marcos-Julia" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg">
     <img align="center" alt="Marcos-Numpy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg">
     <img align="center" alt="Marcos-ScikitLearn" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
     <img align="center" alt="Marcos-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
