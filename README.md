@@ -1,22 +1,17 @@
 <img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
 <div styleisplay: inline_block">
-🧠 Engenheiro de Software & fundador da Dyoxy Enterprise (I.S.)</br>
-🧬 Desenvolvedor de soluções digitais para o mundo corporativo.</br>
-☁️ Especialista em microserviços REST e arquitetura cloud para web escalável.
+🚀 Engenheiro de Software & Fundador da Dyoxy</br>
+🛰️ Especialista em soluções de análise, simulação e otimização para engenharia aeroespacial</br>
+📊 Pesquisador técnico-científico, especialmente focado em Data Science e Machine Learning
 
 <h3>Tecnologias:</h3>
 <div style="display: inline_block">
     <img align="center" alt="Marcos-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-    <img align="center" alt="Marcos-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-    <img align="center" alt="Marcos-Go" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
-    <img align="center" alt="Marcos-Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-     <img align="center" alt="Marcos-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-    <img align="center" alt="Marcos-Vue" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
-    <img align="center" alt="Marcos-Sass" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-    <img align="center" alt="Marcos-TailwindCSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+    <img align="center" alt="Marcos-Julia" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg">
+    <img align="center" alt="Marcos-Numpy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg">
+    <img align="center" alt="Marcos-ScikitLearn" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
     <img align="center" alt="Marcos-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-    <img align="center" alt="Marcos-Kubernetes" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
 
 </div>
 
