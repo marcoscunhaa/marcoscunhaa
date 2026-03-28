@@ -1,7 +1,7 @@
 <img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" align="center" height="" width="2000">
 
 <div styleisplay: inline_block">
-💻 CEO & Founder @ Dyoxy | Data & IA</br>
+💻 CEO & Founder @ Dyoxy | Data & AI</br>
 📊 Business Intelligence & Data Solutions Specialist for strategic decision-making</br>
 ⚡ Delivering data-driven and AI-powered solutions, dashboards, and automation for business growth
 
@@ -26,5 +26,3 @@
 </div>
 
 </p>
-
-
