@@ -5,7 +5,7 @@
 📊 Business Intelligence & Data Solutions Specialist for strategic decision-making</br>
 ⚡ Delivering data-driven and AI-powered solutions, dashboards, and automation for business growth
 
-<h3>Tecnologias:</h3>
+<h3>Technology Stack:</h3>
 <div style="display: inline_block">
     <img align="center" alt="Marcos-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
     <img align="center" alt="Marcos-Jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
@@ -17,7 +17,7 @@
 
 </div>
 
-<h3>Status:</h3>
+<h3>Stats:</h3>
 <div style="display: inline_block">
 <img height="180em" src="https://github-readme-stats-mu-ruby.vercel.app/api?username=marcoscunhaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 
@@ -26,3 +26,5 @@
 </div>
 
 </p>
+
+
