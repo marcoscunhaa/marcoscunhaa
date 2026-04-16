@@ -8,15 +8,15 @@
 
 <h3>Technology Stack:</h3>
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="45" height="45" alt="python"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" alt="jupyter"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pandas/pandas-original-wordmark.svg" width="45" height="45" alt="pandas"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/plotly/plotly-original.svg" width="45" height="45" alt="plotly"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikitlearn"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/julia/julia-original-wordmark.svg" width="45" height="45" alt="julia"></td>
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="45" height="45" alt="python"></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" alt="jupyter"></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy"></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pandas/pandas-original-wordmark.svg" width="45" height="45" alt="pandas"></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/plotly/plotly-original.svg" width="45" height="45" alt="plotly"></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikitlearn"></td>
+    <td style="border: none; padding: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/julia/julia-original-wordmark.svg" width="45" height="45" alt="julia"></td>
   </tr>
 </table>
 
