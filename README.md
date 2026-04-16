@@ -22,6 +22,15 @@
 
 <br>
 
+<h3>Writing & Insights:</h3>
+<p align="left">
+  <a href="https://medium.com/@marcs.py" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile">
+  </a>
+</p>
+
+<br>
+
 <h3>Stats:</h3>
 
 <p align="left">
