@@ -8,7 +8,17 @@
 
 <h3>Technology Stack:</h3>
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="45" height="45" alt="python">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" alt="jupyter">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pandas/pandas-original-wordmark.svg" width="45" height="45" alt="pandas">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/plotly/plotly-original.svg" width="45" height="45" alt="plotly">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikitlearn">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/julia/julia-original-wordmark.svg" width="45" height="45" alt="julia"></p>
+<p align="left">
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="45" height="45" alt="python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" alt="jupyter">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pandas/pandas-original-wordmark.svg" width="45" height="45" alt="pandas">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/plotly/plotly-original.svg" width="45" height="45" alt="plotly">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikitlearn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/julia/julia-original-wordmark.svg" width="45" height="45" alt="julia">
+  </a>
+</p>
 
 <br>
 
