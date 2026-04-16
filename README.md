@@ -1,7 +1,4 @@
-<img title="Marcos-welcome" 
-     src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" 
-     alt="Marcos-welcome" 
-     width="100%">
+<img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" width="100%">
 
 💻 CEO & Founder @ Dyoxy | Data & AI  
 📊 Business Intelligence & Data Solutions Specialist for strategic decision-making  
@@ -10,15 +7,7 @@
 <br>
 
 <h3>Technology Stack:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
-</p>
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="45" height="45" style="max-width: 100%;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" style="max-width: 100%;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/numpy/numpy-original.svg" width="45" height="45" style="max-width: 100%;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pandas/pandas-original-wordmark.svg" width="45" height="45" style="max-width: 100%;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/plotly/plotly-original.svg" width="45" height="45" style="max-width: 100%;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" style="max-width: 100%;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/julia/julia-original-wordmark.svg" width="45" height="45" style="max-width: 100%;"></p>
 
 <br>
 
