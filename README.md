@@ -12,7 +12,7 @@
 <h3>Technology Stack:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,jupyter,numpy,pandas,plotly,sklearn,julia&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,mongodb,mysql,postgres,sqlite,aws,gcp,azure,docker,linux,nginx,git,github,vscode&theme=dark" />
   </a>
 </p>
 
