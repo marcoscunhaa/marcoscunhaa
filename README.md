@@ -12,7 +12,7 @@
 <br>
 
 <h3>Technology Stack:</h3>
-<div style="display: inline-block">
+<div>
     <img align="center" alt="Marcos-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
     <img align="center" alt="Marcos-Jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
     <img align="center" alt="Marcos-Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
