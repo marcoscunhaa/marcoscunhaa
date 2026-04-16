@@ -8,15 +8,15 @@
 
 <h3>Technology Stack:</h3>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none !important;">
-  <tr style="border: none !important;">
-    <td style="border: none !important; padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="45" height="45" alt="python"></td>
-    <td style="border: none !important; padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" alt="jupyter"></td>
-    <td style="border: none !important; padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy"></td>
-    <td style="border: none !important; padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pandas/pandas-original-wordmark.svg" width="45" height="45" alt="pandas"></td>
-    <td style="border: none !important; padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/plotly/plotly-original.svg" width="45" height="45" alt="plotly"></td>
-    <td style="border: none !important; padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikitlearn"></td>
-    <td style="border: none !important; padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/julia/julia-original-wordmark.svg" width="45" height="45" alt="julia"></td>
+<table border="0">
+  <tr>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="45" height="45" alt="python"></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" alt="jupyter"></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy"></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pandas/pandas-original-wordmark.svg" width="45" height="45" alt="pandas"></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/plotly/plotly-original.svg" width="45" height="45" alt="plotly"></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikitlearn"></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/julia/julia-original-wordmark.svg" width="45" height="45" alt="julia"></td>
   </tr>
 </table>
 
