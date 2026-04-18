@@ -17,7 +17,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/julia/julia-original-wordmark.svg" width="45" height="45" alt="julia">
     </td>
     <td style="padding: 10px; border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pandas/pandas-original-wordmark.svg" width="45" height="45" alt="pandas">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas">
     </td>
     <td style="padding: 10px; border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikitlearn">
