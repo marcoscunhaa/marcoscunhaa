@@ -54,6 +54,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
   <a href="https://medium.com/@marcs.py" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-ff7a00?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile">
 </a>
 </p>
+
