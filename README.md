@@ -1,8 +1,8 @@
 <img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" width="100%">
 
-💻 CEO & Founder @ Dyoxy | Data & AI  
-📊 Solutions Architect & Strategic Consultant  
-⚡ I provide scalable solutions for ETL pipelines, AI-powered automation and Business Intelligence.
+### 💻 CEO & Founder @ Dyoxy | Data & AI  
+### 📊 Solutions Architect & Strategic Consultant  
+### ⚡ I provide scalable solutions for ETL pipelines, AI-powered automation and Business Intelligence.
 
 <br>
 
@@ -57,4 +57,3 @@
   <img src="https://img.shields.io/badge/Medium-ff7a00?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile">
 </a>
 </p>
-
