@@ -1,8 +1,8 @@
 <img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" width="100%">
 
-### 💻 CEO & Founder @ Dyoxy | Data & AI  
-### 📊 Solutions Architect & Strategic Consultant  
-### ⚡ I provide scalable solutions for ETL pipelines, AI-powered automation and Business Intelligence.
+💻 CEO & Founder @ Dyoxy | Data & AI  
+📊 Solutions Architect & Strategic Consultant  
+⚡ I provide scalable solutions for ETL pipelines, AI-powered automation and Business Intelligence.
 
 <br>
 
