@@ -1,22 +1,28 @@
 <img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" width="100%">
 
 💻 CEO & Founder @ Dyoxy | Data & AI  
-📊 Business Intelligence & Data Solutions Specialist for strategic decision-making  
-⚡ Delivering data-driven and AI-powered solutions, dashboards, and automation for business growth  
+📊 Solutions Architect & Strategic Consultant  
+⚡ I provide scalable solutions for ETL pipelines, AI-powered automation, and Business Intelligence.
 
 <br>
 
 <h3>Technology Stack:</h3>
 
-<div style="display: flex; gap: 18px; flex-wrap: wrap; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="45" height="45" alt="python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" alt="jupyter">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pandas/pandas-original-wordmark.svg" width="45" height="45" alt="pandas">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/plotly/plotly-original.svg" width="45" height="45" alt="plotly">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikitlearn">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/julia/julia-original-wordmark.svg" width="45" height="45" alt="julia">
-</div>
+<table border="0">
+  <tr>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="45" height="45" alt="python"></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/julia/julia-original-wordmark.svg" width="45" height="45" alt="julia"></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pandas/pandas-original-wordmark.svg" width="45" height="45" alt="pandas"></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikitlearn"></td>
+    <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/plotly/plotly-original.svg" width="45" height="45" alt="plotly"></td>
+      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="45" height="45" alt="playwright"></td>
+      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="postgreSql"></td>
+      <td style="padding: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="docker"></td>
+
+
+  </tr>
+</table>
+
 
 <br>
 
@@ -29,7 +35,6 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile">
   </a>
 </p>
-
 <br>
 
 <h3>Stats:</h3>
