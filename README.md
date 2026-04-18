@@ -36,18 +36,12 @@
     </td>
   </tr>
 </table>
-
-<br>
-
 <h3>Stats:</h3>
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats-mu-ruby.vercel.app/api?username=marcoscunhaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-mu-ruby.vercel.app/api/top-langs/?username=marcoscunhaa&layout=compact&theme=tokyonight"/>
 </p>
-
-<br>
-
 <h3>Connect & Insights:</h3>
 <p align="left">
   <a href="https://wa.me/5588997475684" target="_blank">
