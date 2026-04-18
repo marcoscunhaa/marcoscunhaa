@@ -2,9 +2,7 @@
 
 💻 CEO & Founder @ Dyoxy | Data & AI  
 📊 Solutions Architect & Strategic Consultant  
-⚡ I provide scalable solutions for ETL pipelines, AI-powered automation
-
-and Business Intelligence.
+⚡ I provide scalable solutions for ETL pipelines, AI-powered automation and Business Intelligence.
 
 <br>
 
