@@ -14,7 +14,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="45" height="45" alt="python">
     </td>
     <td style="padding: 10px; border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/julia/julia-original-wordmark.svg" width="45" height="45" alt="julia">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" alt="jupyter">
     </td>
     <td style="padding: 10px; border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas">
@@ -57,4 +57,3 @@
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile">
 </a>
 </p>
-
