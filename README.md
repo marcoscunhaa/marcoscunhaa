@@ -42,16 +42,4 @@
   <img height="180em" src="https://github-readme-stats-mu-ruby.vercel.app/api?username=marcoscunhaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-mu-ruby.vercel.app/api/top-langs/?username=marcoscunhaa&layout=compact&theme=tokyonight"/>
 </p>
-<h3>Connect & Insights:</h3>
-<p align="left">
-  <a href="https://wa.me/5588997475684" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="mailto:marcos.cunha1025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/marcoscunhaa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-  </a>
-</p>
 
