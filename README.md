@@ -2,7 +2,8 @@
 
 💻 Data Analyst & Upwork Freelancer  
 📊 Completing Software Engineering at UniAteneu  
-⚡ I offer scalable solutions for ETL pipelines, Python automation, Business Intelligence, and Machine Learning.
+⚡ I offer scalable solutions for ETL pipelines, Python automation,   
+Business Intelligence, and Machine Learning.
 
 <br>
 
