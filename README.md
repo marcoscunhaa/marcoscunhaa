@@ -1,8 +1,8 @@
 <img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" width="100%">
 
-💻 CEO & Founder @ Dyoxy | Data & AI  
-📊 Solutions Architect & Strategic Consultant  
-⚡ I provide scalable solutions for ETL pipelines, AI-powered automation and Business Intelligence.
+💻 Data Analyst & Upwork Freelancer
+📊 Completing Software Engineering at UniAteneu  
+⚡ I offer scalable solutions for ETL pipelines, Python automation, Business Intelligence, and Machine Learning.
 
 <br>
 
@@ -42,4 +42,3 @@
   <img height="180em" src="https://github-readme-stats-mu-ruby.vercel.app/api?username=marcoscunhaa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-mu-ruby.vercel.app/api/top-langs/?username=marcoscunhaa&layout=compact&theme=tokyonight"/>
 </p>
-
