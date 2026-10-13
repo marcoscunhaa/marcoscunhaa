@@ -1,6 +1,6 @@
 <img title="Marcos-welcome" src="https://github.com/marcoscunhaa/animation.svg/blob/master/readme.svg" alt="Marcos-welcome" width="100%">
 
-💻 Data Analyst & Upwork Freelancer
+💻 Data Analyst & Upwork Freelancer  
 📊 Completing Software Engineering at UniAteneu  
 ⚡ I offer scalable solutions for ETL pipelines, Python automation, Business Intelligence, and Machine Learning.
 
